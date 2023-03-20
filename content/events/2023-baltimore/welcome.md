@@ -105,3 +105,20 @@ Description = "DevOpsDays Baltimore 2023"
 </div>
 
 ## {{< event_twitter >}}
+
+---
+
+<h3>Accommodations</h3>
+<div class = "row">
+  <p>
+    Here is a list of hotels that are within walking distance from the venue.  Please reach out to the event organizers
+    via our {{< event_link page="contact" text="Contact Page" >}} with any questions.
+  </p>
+</div>
+<div class = "row">
+  <ul>
+    <li>Staybridge Suites Baltimore</li>
+    <li>Fairfield Inn & Suites by Marriott</li>
+    <li>1840s Carrollton Inn</li>
+  </ul>
+</div>
